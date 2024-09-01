@@ -1,7 +1,12 @@
-# Watsen
+# Watson-Product
 
-Nuvian Team Charless Kaming Daniel Raharja
+Nuvian Team
+Charless
+Kaming
+Daniel Raharja 
 
-Brief Explanation
+Brief Explanation 
 
-Watsen adalah platform yang menyediakan pembelajaran kelas digital dalam memeberikan edukasi dan pembelajaran tentang programming dan menyediakan berbagai macam bahasa pemrograman untuk pembelajaran yang lanjut
+Watsen adalah platform yang menyediakan pembelajaran kelas digital dalam memeberikan edukasi dan pembelajaran 
+tentang programming dan menyediakan berbagai macam bahasa pemrograman untuk pembelajaran yang lanjut
+
